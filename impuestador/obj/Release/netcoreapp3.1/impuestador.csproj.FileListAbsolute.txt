@@ -1,0 +1,14 @@
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\bin\Release\netcoreapp3.1\Impuestador.exe
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\bin\Release\netcoreapp3.1\Impuestador.deps.json
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\bin\Release\netcoreapp3.1\Impuestador.runtimeconfig.json
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\bin\Release\netcoreapp3.1\Impuestador.runtimeconfig.dev.json
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\bin\Release\netcoreapp3.1\Impuestador.dll
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\bin\Release\netcoreapp3.1\Impuestador.pdb
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\obj\Release\netcoreapp3.1\impuestador.csproj.AssemblyReference.cache
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\obj\Release\netcoreapp3.1\impuestador.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\obj\Release\netcoreapp3.1\impuestador.AssemblyInfoInputs.cache
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\obj\Release\netcoreapp3.1\impuestador.AssemblyInfo.cs
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\obj\Release\netcoreapp3.1\impuestador.csproj.CoreCompileInputs.cache
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\obj\Release\netcoreapp3.1\Impuestador.dll
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\obj\Release\netcoreapp3.1\Impuestador.pdb
+D:\OneDrive\Software\Repos\impuestador\impuestador\impuestador\obj\Release\netcoreapp3.1\impuestador.genruntimeconfig.cache
